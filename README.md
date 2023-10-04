@@ -1,4 +1,3 @@
-# BlackJack
+# BlackJack:
 
-## My project contains:
-### JS, HTML, CSS 
+## My project contains: JS, HTML, CSS 
