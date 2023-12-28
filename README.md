@@ -1,3 +1,4 @@
 # BlackJack:
 
-## the project contains: JS, HTML, CSS 
+## the project contains: 
+``Java Script`` , ``HTML`` , `CSS`` 
